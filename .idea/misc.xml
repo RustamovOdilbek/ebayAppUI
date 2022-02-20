@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable-v24/rounded_border_rounded_blue.xml" value="0.28055555555555556" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/deals.xml" value="0.2825641025641026" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.23425925925925925" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/ic_geometric_svgrepo_com.xml" value="0.2825641025641026" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/ic_heart_svgrepo_com.xml" value="0.2825641025641026" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/ic_shopping_cart_svgrepo_com.xml" value="0.23425925925925925" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/rounded.xml" value="0.28055555555555556" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/rounded_border_rounded.xml" value="0.23425925925925925" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/rounded_border_rounded_black.xml" value="0.2825641025641026" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/rounded_border_rounded_white.xml" value="0.2824074074074074" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/drawable/rounded_image.xml" value="0.25462962962962965" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/layout/activity_main.xml" value="0.2708333333333333" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/layout/fragment_blank.xml" value="0.2" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/layout/headset.xml" value="0.17889492753623187" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/layout/item_brave.xml" value="0.18614130434782608" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/layout/item_feed.xml" value="0.1480978260869565" />
+        <entry key="..\:/B - 13 VAZIFALAR/5 - modul/5 - dars/ebay kotlin/app/src/main/res/layout/item_headset.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
